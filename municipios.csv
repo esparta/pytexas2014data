@@ -508,7 +508,7 @@ cve_ent,nom_ent,nom_abr,cve_mun,nom_mun,cve_cab,nom_cab,ptot,pmas,pfem,vtot
 13,Hidalgo,Hgo.,060,Tenango de Doria,0001,Tenango de Doria,17206,8307,8899,4121
 13,Hidalgo,Hgo.,061,Tepeapulco,0001,Tepeapulco,51664,24741,26923,13960
 13,Hidalgo,Hgo.,062,Tepehuacán de Guerrero,0001,Tepehuacán de Guerrero,29125,14788,14337,6415
-13,Hidalgo,Hgo.,063,Tepeji del Río de Ocampo,0001,Tepeji de Ocampo,80612,39569,41043,20170
+13,Hidalgo,Hgo.,063,Tepeji del Río de Ocampo,0001,Tepeji del Río de Ocampo,80612,39569,41043,20170
 13,Hidalgo,Hgo.,064,Tepetitlán,0001,Tepetitlán,9940,4830,5110,2715
 13,Hidalgo,Hgo.,065,Tetepango,0001,Tetepango,11112,5465,5647,2706
 13,Hidalgo,Hgo.,066,Villa de Tezontepec,0001,Tezontepec,11654,5732,5922,2775
@@ -702,7 +702,7 @@ cve_ent,nom_ent,nom_abr,cve_mun,nom_mun,cve_cab,nom_cab,ptot,pmas,pfem,vtot
 15,México,Mex.,045,Jilotepec,0001,Jilotepec de Molina Enríquez,83755,41088,42667,19979
 15,México,Mex.,046,Jilotzingo,0001,Santa Ana Jilotzingo,17970,8864,9106,4273
 15,México,Mex.,047,Jiquipilco,0001,Jiquipilco,69031,33299,35732,15210
-15,México,Mex.,048,Jocotitlán,0001,Jocotitlán,61204,29503,31701,14572
+15,México,Mex.,048,Jocotitlán,0001,Ciudad de Jocotitlán,61204,29503,31701,14572
 15,México,Mex.,049,Joquicingo,0001,Joquicingo de León Guzmán,12840,6201,6639,2896
 15,México,Mex.,050,Juchitepec,0001,Juchitepec de Mariano Rivapalacio,23497,11503,11994,5794
 15,México,Mex.,051,Lerma,0001,Lerma de Villada,134799,66669,68130,31150
@@ -714,7 +714,7 @@ cve_ent,nom_ent,nom_abr,cve_mun,nom_mun,cve_cab,nom_cab,ptot,pmas,pfem,vtot
 15,México,Mex.,057,Naucalpan de Juárez,0001,Naucalpan de Juárez,833779,404974,428805,219310
 15,México,Mex.,058,Nezahualcóyotl,0001,Ciudad Nezahualcóyotl,1110565,536943,573622,285045
 15,México,Mex.,059,Nextlalpan,0001,Santa Ana Nextlalpan,31691,15637,16054,7861
-15,México,Mex.,060,Nicolás Romero,0001,Villa Nicolás Romero,366602,180139,186463,91357
+15,México,Mex.,060,Nicolás Romero,0001,Ciudad Nicolás Romero,366602,180139,186463,91357
 15,México,Mex.,061,Nopaltepec,0001,Nopaltepec,8895,4427,4468,2289
 15,México,Mex.,062,Ocoyoacac,0001,Ocoyoacac,61805,30365,31440,13926
 15,México,Mex.,063,Ocuilan,0001,Ocuilan de Arteaga,31803,15540,16263,7059
@@ -1204,8 +1204,8 @@ cve_ent,nom_ent,nom_abr,cve_mun,nom_mun,cve_cab,nom_cab,ptot,pmas,pfem,vtot
 20,Oaxaca,Oax.,205,San Juan Lalana,0001,San Juan Lalana,17398,8441,8957,3979
 20,Oaxaca,Oax.,206,San Juan de los Cués,0001,San Juan de los Cués,2357,1166,1191,638
 20,Oaxaca,Oax.,207,San Juan Mazatlán,0001,San Juan Mazatlán,17100,8432,8668,3844
-20,Oaxaca,Oax.,208,San Juan Mixtepec -Dto. 08 -,0001,San Juan Mixtepec Distrito 08,7611,3572,4039,2071
-20,Oaxaca,Oax.,209,San Juan Mixtepec -Dto. 26 -,0001,San Juan Mixtepec Distrito 26,711,277,434,191
+20,Oaxaca,Oax.,208,San Juan Mixtepec,0001,San Juan Mixtepec Distrito 08,7611,3572,4039,2071
+20,Oaxaca,Oax.,209,San Juan Mixtepec,0001,San Juan Mixtepec Distrito 26,711,277,434,191
 20,Oaxaca,Oax.,210,San Juan Ñumí,0001,San Juan Ñumí,6666,3196,3470,1498
 20,Oaxaca,Oax.,211,San Juan Ozolotepec,0001,San Juan Ozolotepec,3168,1582,1586,639
 20,Oaxaca,Oax.,212,San Juan Petlapa,0001,San Juan Petlapa,2807,1344,1463,642
@@ -1314,8 +1314,8 @@ cve_ent,nom_ent,nom_abr,cve_mun,nom_mun,cve_cab,nom_cab,ptot,pmas,pfem,vtot
 20,Oaxaca,Oax.,315,San Pedro Mártir,0001,San Pedro Mártir,1711,743,968,476
 20,Oaxaca,Oax.,316,San Pedro Mártir Quiechapa,0001,San Pedro Mártir Quiechapa,753,342,411,190
 20,Oaxaca,Oax.,317,San Pedro Mártir Yucuxaco,0001,San Pedro Mártir Yucuxaco,1405,667,738,408
-20,Oaxaca,Oax.,318,San Pedro Mixtepec -Dto. 22 -,0001,San Pedro Mixtepec Distrito 22,42860,20826,22034,11119
-20,Oaxaca,Oax.,319,San Pedro Mixtepec -Dto. 26 -,0001,San Pedro Mixtepec Distrito 26,1099,518,581,279
+20,Oaxaca,Oax.,318,San Pedro Mixtepec,0001,San Pedro Mixtepec Distrito 22,42860,20826,22034,11119
+20,Oaxaca,Oax.,319,San Pedro Mixtepec,0001,San Pedro Mixtepec Distrito 26,1099,518,581,279
 20,Oaxaca,Oax.,320,San Pedro Molinos,0001,San Pedro Molinos,723,338,385,204
 20,Oaxaca,Oax.,321,San Pedro Nopala,0001,San Pedro Nopala,840,403,437,226
 20,Oaxaca,Oax.,322,San Pedro Ocopetatillo,0001,San Pedro Ocopetatillo,884,408,476,229
